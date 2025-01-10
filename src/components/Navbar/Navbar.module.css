@@ -1,0 +1,7 @@
+.active {
+    background-color: #1ABC9C !important;
+    color: #ffffff !important;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.8s ease, color 0.3s ease, border-radius 0.3s ease;
+}
